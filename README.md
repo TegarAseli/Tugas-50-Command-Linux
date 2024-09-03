@@ -1,4 +1,4 @@
-![Screenshot 2024-09-03 173748](https://github.com/user-attachments/assets/a7c77a4e-aa32-4e06-96ce-1a527e8d428f)## Tugas-50-Command-Linux
+## Tugas-50-Command-Linux
 
 ### 1. clear
 Digunakan untuk menghapus semua riwayat di terminal
